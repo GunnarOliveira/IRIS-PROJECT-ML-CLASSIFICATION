@@ -31,19 +31,19 @@ projeto-iris/
 
 ├── models/
 
-│ ├── knn_model.pkl # Modelo KNN treinado
+   ├── knn_model.pkl # Modelo KNN treinado
 
-│ ├── logreg_model.pkl # Modelo Regressão Logística
+   ├── logreg_model.pkl # Modelo Regressão Logística
 
-│ └── tree_model.pkl # Modelo Árvore de Decisão
+   └── tree_model.pkl # Modelo Árvore de Decisão
 
 ├── src/
 
-│ ├── data.py # Funções para carregamento de dados
+   ├── data.py # Funções para carregamento de dados
 
-│ ├── model.py # Treinamento e avaliação de modelos
+   ├── model.py # Treinamento e avaliação de modelos
 
-│ └── utils.py # Função auxiliar para salvar modelos
+   └── utils.py # Função auxiliar para salvar modelos
 
 ├── app_streamlit.py # Aplicação web interativa com Streamlit
 
