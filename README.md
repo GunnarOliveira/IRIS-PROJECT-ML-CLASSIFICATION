@@ -20,8 +20,8 @@ Este projeto foi desenvolvido pelos alunos:
 - **Matheus Henrique**
 - **Luís Henrique**
 - **John Kennedy**
-- **Thiago "gente boa xD"**
-- Eu :P (Gunnar Vingren)
+- **Thiago Andrade**
+- **Eu :P**  (Gunnar Vingren)
 
 ---
 
