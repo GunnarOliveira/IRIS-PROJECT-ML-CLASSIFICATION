@@ -52,6 +52,8 @@ projeto-iris/
 
 ├── requirements.txt # Dependências necessárias
 
+├── ROTEIRO_DE_EXTENSÃO.docx # Dependências necessárias
+
 ├── README.md # Este arquivo
 ```
 
@@ -159,6 +161,9 @@ joblib
 ```
 
 ---
+
+##Link para a apresentação PPTX
+https://prezi.com/view/E0ceonfKE83u6vEWRA10/ 
 
 ## 💬 Feedback & Contribuição
 
