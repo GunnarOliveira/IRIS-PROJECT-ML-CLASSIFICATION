@@ -52,7 +52,7 @@ projeto-iris/
 
 ├── requirements.txt # Dependências necessárias
 
-├── ROTEIRO_DE_EXTENSÃO.docx # Dependências necessárias
+├── ROTEIRO_DE_EXTENSÃO.docx # Documento contendo o roteiro obrigatório da disciplina 
 
 ├── README.md # Este arquivo
 ```
